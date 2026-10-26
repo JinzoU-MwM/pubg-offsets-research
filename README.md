@@ -1,7 +1,7 @@
 # PUBG (TslGame) Offset Research — Dokumentasi
 
 Riset offset untuk **PUBG: BATTLEGROUNDS** (Steam AppID `578080`, build `26072644`)
-pada instalasi milik Presiden di `muklis-laptop` (Windows 11, DESKTOP-3IDCMF5).
+pada instalasi milik Presiden di `user-laptop` (Windows 11, DESKTOP-3IDCMF5).
 
 Status: **OFFSETS BELUM TERAMBIL** — binary terproteksi (KRAFTON Zakynthos + BattlEye),
 `.text` terenkripsi di disk dan di proses stub; proses game utama memblokir
