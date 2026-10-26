@@ -1,0 +1,7 @@
+# binary game & dump tidak ikut repo
+*.exe
+*.dll
+*.sys
+*.bin
+*.dmp
+*.bin.manifest.json
